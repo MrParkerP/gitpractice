@@ -1,5 +1,4 @@
 One
 Two
-ready?
-GO!
+GO
 
