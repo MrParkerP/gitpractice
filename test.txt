@@ -1,7 +1,5 @@
 One
 Two
-Three
-Four
-Five
-Six
+ready?
+GO!
 
